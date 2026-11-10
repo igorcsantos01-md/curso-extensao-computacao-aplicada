@@ -1,0 +1,6 @@
+{
+  "name": "Extensão Científica & Validador Oficial — Certificado Nº 01 (EMS-EXT-2023-0901)",
+  "description": "Portal Institucional do Curso de Extensão EAD em Escrita Científica, Normas Editoriais (Vancouver/ABNT) e Publicação de Artigos Biomédicos, com Certificado Oficial de 2 Laudas em PDF e Sistema Público de Verificação de Autenticidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
